@@ -10,8 +10,11 @@ First of all, I'll just introduce you to the two main characters and just give a
 - Ellie Williams grew up as an orphan in the Boston quarantine zone and attended a military preparatory school, where she met and befriended Riley Abel. When Ellie was fourteen, the pair were both infected with the Cordyceps brain infection, where Ellie discovered she was immune.
 
 ~~I just copy pasted a paragraph of the character infos in this sites because of laziness~~
+
 Here are some further inforation about the 2 main characters on a game wiki site i found
+
 https://thelastofus.fandom.com/wiki/Joel_Miller
+
 https://thelastofus.fandom.com/wiki/Ellie_Williams
 
 Moving on to the introduction, The last of us is a game series that recently got iself a TV series.
