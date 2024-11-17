@@ -2,6 +2,7 @@
 my first repository
 
 **My Favorite Series**
+
 First of all, I'll just introduce you to the two main characters and just give a very straightforward spoiler free intro about this seires.
 
 - Joel Miller is a survivor in post-apocalyptic America that had been ravaged by the Cordyceps brain infection.[5] After losing his only daughter Sarah in the early stages of the outbreak.
