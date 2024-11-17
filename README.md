@@ -3,11 +3,15 @@ my first repository
 
 **My Favorite Series**
 
+---
+
 First of all, I'll just introduce you to the two main characters and just give a very straightforward spoiler free intro about this seires.
 
-- Joel Miller is a survivor in post-apocalyptic America that had been ravaged by the Cordyceps brain infection.[5] After losing his only daughter Sarah in the early stages of the outbreak.
+- **Joel Miller** is a survivor in post-apocalyptic America that had been ravaged by the Cordyceps brain infection.[5] After losing his only daughter Sarah in the early stages of the outbreak.
 
-- Ellie Williams grew up as an orphan in the Boston quarantine zone and attended a military preparatory school, where she met and befriended Riley Abel. When Ellie was fourteen, the pair were both infected with the Cordyceps brain infection, where Ellie discovered she was immune.
+- **Ellie Williams** grew up as an orphan in the Boston quarantine zone and attended a military preparatory school, where she met and befriended Riley Abel. When Ellie was fourteen, the pair were both infected with the Cordyceps brain infection, where Ellie discovered she was immune.
+
+---
 
 ~~I just copy pasted a paragraph of the character infos in this sites because of laziness~~
 
